@@ -36,3 +36,14 @@ The user can choose which data structure to work with, and each has its own oper
 ---
 
 ## Sample Run
+
+Stack --
+
+<img width="591" height="631" alt="Stack" src="https://github.com/user-attachments/assets/a1be2ef4-d269-494d-90ae-fbc3fbcb3d55" />
+
+
+
+
+Queue --
+
+<img width="790" height="576" alt="queue" src="https://github.com/user-attachments/assets/e18ecdcf-d87a-4a70-a69e-5d16697376cd" />
