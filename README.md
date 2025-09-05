@@ -49,17 +49,17 @@ The user can choose which data structure to work with, and each has its own oper
 
 
 
-# LinkedList
+# LinkedList --
 
 <img width="601" height="485" alt="image" src="https://github.com/user-attachments/assets/8a1e0513-aaf5-4849-8a64-22759f68be64" />
 
 
 
-# Circular LinkedList
+# Circular LinkedList --
 
 <img width="562" height="478" alt="image" src="https://github.com/user-attachments/assets/a6d10766-b942-47f8-a563-535490ec833b" />
 
-# Exit
+# Exit --
 
 <img width="520" height="153" alt="image" src="https://github.com/user-attachments/assets/f62855fd-c95c-49fa-b1fb-4abfb0e4df3a" />
 
